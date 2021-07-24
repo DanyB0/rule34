@@ -1,7 +1,7 @@
 import json
 
 import requests
-Import random
+import random
 
 images = []
 
